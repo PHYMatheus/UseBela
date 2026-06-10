@@ -1,4 +1,4 @@
 package br.com.usebela.enums;
 
-public enum Role {
+public enum MetodoPagamento {
 }

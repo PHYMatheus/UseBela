@@ -1,4 +1,4 @@
 package br.com.usebela.enums;
 
-public class Tamanho {
+public enum Tamanho {
 }
